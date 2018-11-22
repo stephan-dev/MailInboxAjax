@@ -1,7 +1,9 @@
-# Mail viewer
+# Mail inbox ajax
 
-[Heroku app here](https://peaceful-falls-25485.herokuapp.com/)
+projet de @Stephane Mlv
 
-ask me on slack if you need me to re set new mails :)
+enjoy!
 
-read some mails :3
+* Install :
+
+bundle install, db:migrate, db: seed
