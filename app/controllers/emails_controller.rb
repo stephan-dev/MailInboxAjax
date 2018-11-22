@@ -5,6 +5,7 @@ class EmailsController < ApplicationController
 
 #no index because the before action takes care of it
 
+
 #show set the "read:true" status in the database
   def show
     @email.read = true
